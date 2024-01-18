@@ -1,1 +1,1 @@
-## [PROJECT LINK](https://github.com/dolma012/MachineLearning/tree/main/AI_ML_project)
+## [RESUME PROJECT LINK](https://github.com/dolma012/MachineLearning/tree/main/AI_ML_project)
