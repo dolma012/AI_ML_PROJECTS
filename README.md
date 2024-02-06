@@ -1,8 +1,8 @@
 # Resume Project (AI & ML)
 
-## Deep Fake Detection: Human vs GPT
+## Deep Fake Detection using LLM: Human vs GPT
 
-Fine tuned text classifier model using HuggingFace by implementing training method and testing with in-domain and out-domain datasets.
+Fine tuned a text classifier large language model, BERT, using HuggingFace by implementing training method and testing with in-domain and out-domain datasets.
 References: https://huggingface.co/datasets/yaful/DeepfakeTextDetect
 
 ## Blackjack Reinforcement Learning using Monte Carlo Method
