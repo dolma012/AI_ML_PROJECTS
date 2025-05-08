@@ -1,4 +1,4 @@
-# Resume Project (AI & ML)
+# Projects (AI & ML)
 
 ## DeepFake Detection using LLM: Human vs GPT
 
